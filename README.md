@@ -25,6 +25,7 @@
 ![neocom 회원가입양식](https://user-images.githubusercontent.com/84944312/147068270-6d57bb45-443b-460b-a7a9-095303485c1e.jpg)
 
 ▪ 컴퓨터 부품 쇼핑몰 사이트
+
   ▫ Java, Spring Boot, Spring Securty, Javascript(JSP), MySql, Bootstrap, git
   ▫ 로그인 관련 기능과 마이페이지를 담당 했습니다.
   ▫ 상세 내용은 포트폴리오.pdf 참조 바랍니다.
