@@ -18,8 +18,7 @@
 
 ▪ 프로젝트 :
 
-![bbb](https://user-images.githubusercontent.com/84944312/147068796-7dcfe76d-c4f6-47fb-be00-516f14e2f3a1.jpg)
-![aa](https://user-images.githubusercontent.com/84944312/147068810-af854b3f-ce0c-4c29-8fc3-1a64604d578c.jpg)
+![aa](https://user-images.githubusercontent.com/84944312/147069455-7aef7c45-5b0a-4e03-bad5-8fee95f7febb.jpg)
 ![neocom 개인정보관리](https://user-images.githubusercontent.com/84944312/147068320-d7bfa606-2b72-4e37-b89c-706ef15ef66a.jpg)
 ![neocom 배송지관리](https://user-images.githubusercontent.com/84944312/147068090-6f6c96dd-ee65-4872-b25d-4f5cc7abe236.jpg)
 ![neocom 주소 api](https://user-images.githubusercontent.com/84944312/147068132-ef562f4e-3fec-4d69-a021-6ca4d11b6ecc.jpg)
