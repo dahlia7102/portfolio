@@ -17,6 +17,6 @@
      MySQL workbench
 
 ▪ 프로젝트 :
-
+![neocom 메인 index](https://user-images.githubusercontent.com/84944312/147067771-8aa8d26f-e928-49eb-aa01-051d1cf9b603.jpg)
 
 
